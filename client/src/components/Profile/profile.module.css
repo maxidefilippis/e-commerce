@@ -1,0 +1,19 @@
+.btnBack{
+    color: white;
+    width: 200px;
+    height: 50px;
+    background-color: #ce9a18dc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 100ms;
+}
+
+.btnBack:hover{
+    transform: scale(1.3);
+    color: white;
+}
+
+.title{
+    color: #ce9a18dc;
+}
